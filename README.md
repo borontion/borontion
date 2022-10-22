@@ -1,4 +1,4 @@
-### Hi I'm Pengzhan Zhao 👋
+### Hi! I'm Pengzhan Zhao 👋
 
 <!--
 **borontion/borontion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
