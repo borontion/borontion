@@ -8,10 +8,10 @@
 
 <div align="left"> 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=borontion&layout=compact&langs_count=8&hide_border=true&role=owner,collaborator&card_width=400" alt="Pengzhan's Language stats" />
+    <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=borontion&layout=compact&langs_count=8&hide_border=true&role=owner,collaborator&card_width=200" alt="Pengzhan's Language stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=borontion&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&card_width=400" alt="Pengzhan Zhao's Github stats" />
+    <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=borontion&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&card_width=200" alt="Pengzhan Zhao's Github stats" />
   </a>
 </div>
 
