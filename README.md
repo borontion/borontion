@@ -1,8 +1,19 @@
 ## Hi! I'm Pengzhan Zhao 👋
 
+[![Github](https://img.shields.io/github/followers/borontion?label=Follow&style=social)](https://github.com/borontion)
+
 ### Git Stat
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borontion&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borontion&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<div align="left"> 
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=borontion&layout=compact&langs_count=8&hide_border=true&role=owner,collaborator" alt="Pengzhan's Language stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=borontion&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats" alt="Pengzhan Zhao's Github stats" />
+  </a>
+</div>
 
 ### Tech Stack
 
