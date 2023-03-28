@@ -17,7 +17,7 @@
 
 ### Tech Stack
 
-<div style="display: inline_block">
+<div>
   <img align="center" height="30" alt="python" src="https://www.svgrepo.com/download/452091/python.svg">
   <img align="center" height="30" alt="c++" src="https://www.svgrepo.com/download/373528/cpp3.svg">
   <img align="center" height="30" alt="go" src="https://www.svgrepo.com/download/349380/go.svg">
