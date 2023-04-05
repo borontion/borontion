@@ -2,8 +2,6 @@
 
 [![Github](https://img.shields.io/github/followers/borontion?label=Follow&style=social)](https://github.com/borontion)
 
-### 🛠️ Toolbox
-
 <div>
   <img align="center" height="30" alt="python" src="https://www.svgrepo.com/download/452091/python.svg">
   <img align="center" height="30" alt="c++" src="https://www.svgrepo.com/download/373528/cpp3.svg">
