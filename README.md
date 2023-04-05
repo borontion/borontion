@@ -15,12 +15,3 @@
   <img align="center" height="30" alt="terraform" src="https://www.svgrepo.com/download/448253/terraform.svg">
   <img align="center" height="30" alt="aws" src="https://www.svgrepo.com/download/448266/aws.svg">
 </div>
-
-### 🚀 Projects
-
-
-- [Lattice](https://medium.com/@hr_18807/elasticity-fault-tolerance-and-efficiency-without-changing-user-code-9028b8104da2): Elastic, fault-tolerant, and efficient ML without code change
-- [Bamboo](https://www.usenix.org/conference/nsdi23/presentation/thorpe): Making Preemptible Instances Resilient for Affordable Training of Large DNNs
-- [AStitch](https://dl.acm.org/doi/10.1145/3503222.3507723): Enabling A New Multi-Dimensional Optimization Space for Memory-Intensive ML Training and Inference on Modern SIMT Architectures
-- [DISC](https://dl.acm.org/doi/abs/10.1145/3437984.3458838): A Dynamic Shape Compiler for Machine Learning Workloads
-- [Reducto](https://dl.acm.org/doi/abs/10.1145/3387514.3405874): On-Camera Filtering for Resource-Efficient Real-Time Video Analytics
