@@ -3,7 +3,7 @@
 [![Github](https://img.shields.io/github/followers/borontion?label=Follow&style=social)](https://github.com/borontion)
 
 
-I am building things with code:
+I build things with code:
 
 <div>
   <a href="https://www.terraform.io/"><img align="center" height="30" alt="terraform" src="https://www.svgrepo.com/download/448253/terraform.svg"></a>
