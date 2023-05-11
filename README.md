@@ -10,5 +10,5 @@ I build things with code:
   <a href="https://go.dev/"><img align="center" height="30" alt="go" src="https://www.svgrepo.com/download/349380/go.svg"></a>
   <a href="https://www.typescriptlang.org/"><img align="center" height="30" alt="typescript" src="https://www.svgrepo.com/download/374146/typescript-official.svg"></a>
   <a href="https://www.python.org/"><img align="center" height="30" alt="python" src="https://www.svgrepo.com/download/452091/python.svg"></a>
-  <a href="https://isocpp.org/"><img align="center" height="30" alt="c++" src="https://www.svgrepo.com/download/373528/cpp3.svg"></a>
+  <img align="center" height="30" alt="c++" src="https://www.svgrepo.com/download/373528/cpp3.svg">
 </div>
