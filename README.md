@@ -3,9 +3,11 @@
 [![Github](https://img.shields.io/github/followers/borontion?label=Follow&style=social)](https://github.com/borontion)
 
 
-I build things with code
+Keep building with
 
 <div>
+  <img align="center" height="30" alt="terraform" src="https://www.svgrepo.com/download/376356/aws.svg">
+  <img align="center" height="30" alt="terraform" src="https://www.svgrepo.com/download/376331/kubernetes.svg">
   <a href="https://www.terraform.io/"><img align="center" height="30" alt="terraform" src="https://www.svgrepo.com/download/448253/terraform.svg"></a>
   <a href="https://go.dev/"><img align="center" height="30" alt="go" src="https://www.svgrepo.com/download/349380/go.svg"></a>
   <a href="https://www.typescriptlang.org/"><img align="center" height="30" alt="typescript" src="https://www.svgrepo.com/download/374146/typescript-official.svg"></a>
