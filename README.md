@@ -1,9 +1,8 @@
-## Hi! I'm Pengzhan Zhao 👋
+## Hi! I'm Boron 👋
 
 [![Github](https://img.shields.io/github/followers/borontion?label=Follow&style=social)](https://github.com/borontion)
 
-
-My tech stack:
+Building things with
 
 <div>
   <img align="center" height="30" alt="terraform" src="https://www.svgrepo.com/download/376356/aws.svg">
