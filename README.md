@@ -1,4 +1,4 @@
-## Hi! I'm Pengzhan 👋
+## Hi! I'm Pengzhan Zhao 👋
 
 [![Github](https://img.shields.io/github/followers/borontion?label=Follow&style=social)](https://github.com/borontion)
 
