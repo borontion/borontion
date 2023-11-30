@@ -1,6 +1,6 @@
 ## Hi! I'm Pengzhan Zhao 👋
 
-Keep building with
+I am building things with
 
 <div>
   <img align="center" height="30" alt="terraform" src="https://www.svgrepo.com/download/376356/aws.svg">
